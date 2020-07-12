@@ -1,0 +1,4 @@
+#Sun Jul 12 11:58:56 BRT 2020
+base.0=/mnt/amigoni/sqllite/SQLite_how_to/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
